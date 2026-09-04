@@ -61,7 +61,7 @@ Telecom Customer Churn Prediction
 - Confusion matrix
 
 ## Slide 11: Error Analysis
-- Examine false positives and false negatives.
+- Examine false positives and false negatives
 - Identify customer segments where prediction errors occur.
 - Give special attention to missed churners because they may represent retention opportunities.
 
